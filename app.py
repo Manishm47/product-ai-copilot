@@ -107,7 +107,7 @@ Requirement:
 }
 
 
-if st.button("Generate Document"):
+if st.button("Generate Artifacts"):
 
     if requirement:
 
